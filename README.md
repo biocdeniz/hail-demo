@@ -1,6 +1,6 @@
 # i2b2 tranSMART working session - Boston, MA
 ## DBMI Hail Demo - 1K genome phase 1 data - 
-### For this demo, please go to: **146.148.51.117:8245**
+### For this demo, please go to: hppt://146.148.51.117:8245
 
 <img src="https://hail.is/docs/devel/hail-logo-cropped.png" width= "250px">
 
